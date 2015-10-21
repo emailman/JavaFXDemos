@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
-/**
+/*
  * Created by emailman on 10/20/2015.
  */
 public class JavaFXDemo1 extends Application {
