@@ -4,6 +4,8 @@ package p3;
  * Created by emailman on 10/21/2015.
  */
 
+// This demo shows property binding
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
@@ -13,8 +15,6 @@ import javafx.stage.Stage;
 
 public class JavaFXDemo3 extends Application {
 
-
-// new comment
     @Override
     public void start(Stage primaryStage) {
         // Create a pane
